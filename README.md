@@ -33,6 +33,8 @@ meat) or drinks which was predetermined to feed people now lies in landfills as 
 it being fit for human consumption. The food thrown is either spoiled or expired chiefly due to 
 economic behavior, poor stock management and neglect. This is happening is developed, 
 developing and underdeveloped countries with each’s contribution higher than the other.
+
+
 Tech-Stack used :--
 • Java
 • Spring Framework
@@ -42,7 +44,7 @@ Tech-Stack used :--
 • MySQL
 • Spring Security (JWT)
 
-Tools and Technologies
+Tools and Technologies :
 Technology Stack for Hunger Help
 1. Spring Boot: Utilized to develop the backend of the application, providing a robust framework 
 for building Java-based web applications with ease. It ensures smooth integration with various 
@@ -67,7 +69,7 @@ classes) enables rapid prototyping and customization of the user interface.
 8. Git: Implemented as a version control system to track changes in the source code, enabling 
 collaboration among developers and facilitating code management and deployment workflows.
 
-Future Scope
+Future Scope :
  From the research, we understood that people are trying to move more towards 
 donating food via food waste management web application, as it saves time from searching 
 online for different websites and collecting Orphanages contact information and is much faster. 
@@ -76,7 +78,7 @@ companies for collection of food, etc. Another feature that sounds demanding is 
 live location of delivery of food. To simplify, our system shall offer a faster booking process 
 and faster response to user demand which will saves time of the user.
 
-Conclusion
+Conclusion :
  Food waste remains a significant issue due to the global food system's focus on profit 
 and control, which fosters overproduction and waste. The "Hunger Help" web application
 addresses this by connecting donors with NGOs to collect and distribute excess food to those 
